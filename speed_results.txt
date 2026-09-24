@@ -1,8 +1,0 @@
-CCTV1,http://125.93.74.27:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-CCTV2,http://125.43.244.29:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-CCTV13,http://125.93.74.27:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-CCTV13,http://125.43.244.29:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-安徽卫视,http://125.43.244.29:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-广西卫视,http://125.43.244.29:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
-江西卫视,http://125.93.74.27:9002/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.346 MB/s
